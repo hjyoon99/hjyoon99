@@ -7,7 +7,6 @@
 - Public Administration, Kwangwoon University  
 - Software Convergence (Double Major), Kwangwoon University  
 - UMC 7th Member  
-- Naver Boostcamp 10th (Challenge)
 
 ---
 
