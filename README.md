@@ -5,7 +5,8 @@
 ## 도전을 꿈꾸는 개발자 윤혜정입니다.
 
 - Public Administration, Kwangwoon University  
-- Software Convergence (Double Major), Kwangwoon University  
+- Software Convergence (Double Major), Kwangwoon University
+- 멋쟁이사자처럼 대학 10기
 - UMC 7th Member  
 
 ---
