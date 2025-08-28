@@ -40,7 +40,7 @@
 ## 🧑‍💻 Contact me
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyejung9904)
-[![Naver Blog](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/hyejung9904)
+[![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hyejung9904@naver.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hyejung9904@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hj_y00n)
 ---
