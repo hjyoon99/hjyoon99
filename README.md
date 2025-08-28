@@ -7,7 +7,8 @@
 - Public Administration, Kwangwoon University  
 - Software Convergence (Double Major), Kwangwoon University
 - 멋쟁이사자처럼 대학 10기
-- UMC 7th Member  
+- UMC (University MakeUs Challenge) 7기
+- 네이버 부스트캠프 웹·모바일 10기
 
 ---
 
@@ -41,10 +42,10 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyejung9904)
 [![Naver Blog](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/hyejung9904)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hyejung9904@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hj_y00n)
 ---
 
 ## 🏅 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjyoon99&custom_title=hjyoon99's%20GitHub%20Stats&bg_color=180,ffffff,eeeeee&title_color=000000&text_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjyoon99&layout=compact&bg_color=180,ffffff,eeeeee&title_color=000000&text_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjyoon99&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=gotham)
