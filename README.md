@@ -6,7 +6,6 @@
 
 - Public Administration, Kwangwoon University  
 - Software Convergence (Double Major), Kwangwoon University
-- 멋쟁이사자처럼 대학 10기
 - UMC (University MakeUs Challenge) 7기
 - 네이버 부스트캠프 웹·모바일 10기
 
